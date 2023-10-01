@@ -4,6 +4,11 @@
 
 The Robotic Pathfinding Application is a 2D grid-based program designed to find the shortest path for a robot to navigate from a random start point to an endpoint while avoiding immovable obstacles (blocks). The main goal of this application is to implement efficient pathfinding algorithms to solve this problem.
 
+
+https://github.com/HeshamHM/Robotic-Pathfinding-Application/assets/65486855/b6c7f225-bf38-4b6b-aff7-60cab56ab2e0
+
+
+
 ## Features
 
 - Generation:
